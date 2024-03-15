@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd ~/vaults/notes/
+export NVIM_APPNAME=nvim-vulkanglass
+nvim
