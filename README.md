@@ -33,7 +33,10 @@ It is based on [Kickstart.Nvim](https://github.com/nvim-lua/kickstart.nvim) and 
 
 # Requirements
 Needs NeoVim 9.4 or higher.  
-you need to have `npm` installed, to compile the MarkdownPreview Plugin
+- you need to have `npm` installed, to compile the MarkdownPreview Plugin
+- You'll also need `ripgrep` to be able to propperly search and link notes
+
+
 
 ## Installation
 This will create a new config for the `NVIM_APPNAME` = nvim-vulkanglass
