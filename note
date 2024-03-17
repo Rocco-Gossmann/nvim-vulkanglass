@@ -2,4 +2,4 @@
 
 cd ~/vaults/notes/
 export NVIM_APPNAME=nvim-vulkanglass
-nvim
+nvim index.md
